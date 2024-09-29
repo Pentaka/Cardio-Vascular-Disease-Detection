@@ -52,6 +52,12 @@ Glukoz dağılımı incelendiğinde yüksek sayıda hastanın değerlerinin norm
 
 Kolestrol dağılımı incelendiğinde yine yüksek sayıda normal hasta bulunduğu ve çok daha az miktarda normalin üstünde ve normalin çok üstünde hasta bulunduğu görülmektedir.
 
+## Kardiyo-Vasküler Hastalık
+
+<img src= https://github.com/Pentaka/Cardio-Vascular-Disease-Detection/blob/main/hastalik/kardiyovaskuler_hastalik_grafik.png >
+
+Veri setinde hastalığa sahip olan ve olmayan bireylerin küçük fark ile biribirine eşit olduğu görülmektedir. 
+
 ## Veri Ön İşleme
 
 Öncelikle veri setindeki id sütunu, çalışmaya herhangi bir etki etmeyeceği için çıkarılmıştır.
